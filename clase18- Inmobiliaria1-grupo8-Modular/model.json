@@ -1,0 +1,156 @@
+ [
+    {
+        "id": 1,
+        "propietarios": "Dueño: Luis Perez",
+        "ambientes": 2,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 2,
+        "precioAlquiler": 42700
+    },
+    {
+        "id": 2,
+        "propietarios": "Dueñas: Martinez Hnas",
+        "ambientes": 1,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 2,
+        "precioAlquiler": 29000
+    },
+    {
+        "id": 3,
+        "propietarios": "Dueña: Laura García",
+        "ambientes": 2,
+        "disponible": false,
+        "aceptaMascotas": false,
+        "cantidadPersonas": 3,
+        "precioAlquiler": 53000
+    },
+    {
+        "id": 4,
+        "propietarios": "Dueña: Julieta Tols",
+        "ambientes": 1,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 1,
+        "precioAlquiler": 17900
+    },
+    {
+        "id": 5,
+        "propietarios": "Dueño: Pablo Groming",
+        "ambientes": 1,
+        "disponible": false,
+        "aceptaMascotas": false,
+        "cantidadPersonas": 1,
+        "precioAlquiler": 24100
+    },
+    {
+        "id": 6,
+        "propietarios": "Dueñas: Martinez Hnas",
+        "ambientes": 2,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 3,
+        "precioAlquiler": 46700
+    },
+    {
+        "id": 7,
+        "propietarios": "Dueño: Alberto Direck",
+        "ambientes": 2,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 2,
+        "precioAlquiler": 37000
+    },
+    {
+        "id": 8,
+        "propietarios": "Dueña: Maria Gonzalez",
+        "ambientes": 4,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 5,
+        "precioAlquiler": 84000
+    },
+    {
+        "id": 9,
+        "propietarios": "Dueña: Martina García",
+        "ambientes": 3,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 5,
+        "precioAlquiler": 74000
+    },
+    {
+        "id": 10,
+        "propietarios": "Dueña: Cristina Foldati",
+        "ambientes": 3,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 3,
+        "precioAlquiler": 55800
+    },
+    {
+        "id": 11,
+        "propietarios": "Dueño: Ramiro Orwel",
+        "ambientes": 3,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 4,
+        "precioAlquiler": 68000
+    },
+    {
+        "id": 12,
+        "propietarios": "Dueño: Juan Goldstein",
+        "ambientes": 3,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 4,
+        "precioAlquiler": 63000
+    },
+    {
+        "id": 13,
+        "propietarios": "Dueño: Juan Pablo Martinez",
+        "ambientes": 2,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 2,
+        "precioAlquiler": 43200
+    },
+    {
+        "id": 14,
+        "propietarios": "Dueños: Ramirez y asociados",
+        "ambientes": 2,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 2,
+        "precioAlquiler": 40000
+    },
+    {
+        "id": 15,
+        "propietarios": "Dueños: Martín Gutierrez y José Torres",
+        "ambientes": 1,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 1,
+        "precioAlquiler": 21500
+    },
+    {
+        "id": 16,
+        "propietarios": "Dueñas: Olga Fernandez y Victoria Paz",
+        "ambientes": 1,
+        "disponible": false,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 1,
+        "precioAlquiler": 28000
+    },
+    {
+        "id": 17,
+        "propietarios": "Dueños: Ramirez y asociados",
+        "ambientes": 1,
+        "disponible": true,
+        "aceptaMascotas": true,
+        "cantidadPersonas": 1,
+        "precioAlquiler": 23000
+    }
+]
+
